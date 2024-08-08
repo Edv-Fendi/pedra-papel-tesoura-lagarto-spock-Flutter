@@ -1,4 +1,8 @@
-# aula_2
+# Pedra - Papel - Tesoura - Lagarto - Spock 
+
+Uma versão divertida de PEDRA - PAPEL - TESOURA :)
+
+Conteudo educativo.
 
 A new Flutter project.
 
